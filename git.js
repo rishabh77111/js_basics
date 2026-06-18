@@ -60,3 +60,8 @@
 
 //git change in main branch
 //git change in main branch
+//? merge
+//* git merge <branch_name>
+
+//change new branch
+//change new branch
