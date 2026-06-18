@@ -54,3 +54,9 @@
 //* git merge <branch_name>
 
 //* git switch -c <branch_name>
+
+//? merge
+//* git merge <branch_name>
+
+//change new branch
+//change new branch
