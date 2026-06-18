@@ -52,3 +52,5 @@
 //* git branch <branch_name>   //create  new branch
 //* git switch <branch_name>    //switch between branches
 //* git merge <branch_name>
+
+//* git switch -c <branch_name>
