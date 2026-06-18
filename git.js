@@ -26,12 +26,27 @@
 //* git init //Intialized empty git repository
 
 //? git working flow
-//* working directory -->staging area  -> local repo
+//* working directory -->staging area  -> local repo     -> remote repo
 //changes              //ready state      //new version
 
 //?
 //* git status -->
 //* git add <filepath>
+//* git add .
 //* git commit -m "commit_message"
 
 
+//? github
+//* git remote -v
+//* git remote add origin <remote_repo_url>
+//* git remote remove origin
+//* git push origin <branch_name>  //git push origin main
+
+//? ignore 
+//* .gitignore file
+
+
+
+//? branching
+//* git branch                  //list all branchg
+//* git branch <branch_name>   //create  new branch
