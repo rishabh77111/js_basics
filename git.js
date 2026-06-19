@@ -51,9 +51,10 @@
 //* git branch                  //list all branchg
 //* git branch <branch_name>   //create  new branch
 //* git switch <branch_name>    //switch between branches
+//* git checkout <branch_name>    //switch between branches
 //* git merge <branch_name>
-
-//* git switch -c <branch_name>
+//* git switch -c <branch_name>  //create and switch to new branch
+//* git checkout -b <branch_name>  //create and switch to new branch
 
 
 
@@ -65,3 +66,6 @@
 
 //change new branch
 //change new branch
+
+//while working in teams
+//* git pull origin <branch_name>
