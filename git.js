@@ -56,6 +56,24 @@
 //* git switch -c <branch_name>  //create and switch to new branch
 //* git checkout -b <branch_name>  //create and switch to new branch
 
+//?merge
+//* git merge <branch_name>
+
+//* git log
+//* git log --oneline
+
+//? rebase
+//! main: A -> B -> C -> F -> G
+//! test:           C -> D -> E
+//! test:           C -> F -> G -> D' -> E'  //rebase
+
+//git rebase <branch>
+
+//? cherry-pick <commit-id>
+// git cherry-pick a0c3976
+//! main: A -> B -> C -> F -> G
+//! fix:            C -> D -> E
+//!        A -> B -> C -> F -> G ->D'
 
 
 
